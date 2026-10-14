@@ -1,50 +1,15 @@
-{
-  "archives": {
-    "ShardX-Fingerprints.zip": "e2f22d25690c2590b3e087a79e141bf2",
-    "ShardX-Linux.zip": "3116458af9948b31324980680f7f1194-25",
-    "ShardX-Mac-arm64.zip": "753ea795c8949dca00fc73047db4f3de-20",
-    "ShardX-Widevine-Linux.zip": "9b7d2697bc8ede2bd9fe72ccaaa2f15f-3",
-    "ShardX-Widevine-Mac-arm64.zip": "c54f3fb0b47c47d8f4663ddd3b1f2cf4",
-    "ShardX-Widevine-Win.zip": "8852779330edb7ac2096e0d21dc3afb5",
-    "ShardX-Windows.zip": "eb861fc080cb30f6e84bee3b449abee1-24"
-  },
-  "chromium_version": "152.0.7977.65",
-  "engine_build": "4",
-  "min_launcher_version": "2.0.1",
-  "min_sdk_version": "2.0.2",
-  "grease_brand": "Not?A_Brand",
-  "grease_version": "24",
-  "tls": {
-    "signature_algorithms": [
-      2308,
-      2309,
-      2310,
-      1027,
-      2052,
-      1025,
-      1283,
-      2053,
-      1281,
-      2054,
-      1537
-    ],
-    "cipher_suites": [
-      4865,
-      4866,
-      4867,
-      49195,
-      49199,
-      49196,
-      49200,
-      52393,
-      52392,
-      49171,
-      49172,
-      156,
-      157,
-      47,
-      53
-    ]
-  },
-  "revision": 7
+﻿{
+    "archives": {
+        "FastST-Fingerprints.zip": "6489CB444057B0D83492099037F3AC611B99A05DB8B95378D09129EE9E4A60E1",
+        "FastST-Windows.zip": "5EB0B5F954B71A652868E50954356034828DC9832C3EF6F6494D48B74111393C",
+        "FastST-Widevine-Win.zip": "8B32E3627B998964AA53670F85756C7BC2127780C2AA5CC06FBF4FD0BCB07862",
+        "FastST-Widevine-Mac-arm64.zip": "5C2F78DD705E8F842455136EEEB358805CC721288CD268E079676A557EEABF92",
+        "FastST-Linux.zip": "8596686D485782BA122507B64E28227A12558D6E43450E3E71C7C8307BBF4856",
+        "FastST-Mac-arm64.zip": "8940DF92CCA51025C9D7F68C2D9F24CF667DD46531BCDDE1466417AF8A065A3B",
+        "FastST-Widevine-Linux.zip": "44FB1A3AFD884D650904B88637EEF8CEDE162EA5D302292A7B8813DEAFB751DC"
+    },
+    "chromium_version": "149.0.7827.103",
+    "grease_brand": "Not)A;Brand",
+    "grease_version": "24",
+    "revision": 3
 }
